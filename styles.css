@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+        input {
+            padding: 10px;
+            font-size: 18px;
+            width: 300px;
+            text-align: center;
+        }
+        h3 {
+            font-size: 20px;
+            margin-top: 20px;
+        }
